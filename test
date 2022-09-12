@@ -1,3 +1,7 @@
 First line
 Second line
+<<<<<<< HEAD
 3rd Line
+=======
+Third Line
+>>>>>>> copy
